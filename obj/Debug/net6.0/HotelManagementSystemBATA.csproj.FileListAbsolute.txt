@@ -1,0 +1,15 @@
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/bin/Debug/net6.0/HotelManagementSystemBATA
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/bin/Debug/net6.0/HotelManagementSystemBATA.deps.json
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/bin/Debug/net6.0/HotelManagementSystemBATA.runtimeconfig.json
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/bin/Debug/net6.0/HotelManagementSystemBATA.dll
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/bin/Debug/net6.0/HotelManagementSystemBATA.pdb
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.csproj.AssemblyReference.cache
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.AssemblyInfoInputs.cache
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.AssemblyInfo.cs
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.csproj.CoreCompileInputs.cache
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.dll
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/refint/HotelManagementSystemBATA.dll
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.pdb
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/HotelManagementSystemBATA.genruntimeconfig.cache
+/Users/dsn/Desktop/Year 2 Uni Work/SEM 1/Systems Programming /Assignment/HotelManagementSystemBATA/HotelManagementSystemBATA/obj/Debug/net6.0/ref/HotelManagementSystemBATA.dll

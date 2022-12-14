@@ -1,0 +1,5 @@
+ ***CUSTOMER RECIPT*** 
+Amount paid: £103 
+Card payment?: True 
+
+ Thank you for your custom asd.
